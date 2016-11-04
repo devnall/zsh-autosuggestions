@@ -1,5 +1,9 @@
 # zsh-autosuggestions
 
+*Note* this fork only needs to exist until the patch in [Issue126](https://github.com/zsh-users/zsh-autosuggestions/issues/126)
+or [PR150](https://github.com/zsh-users/zsh-autosuggestions/pull/150) get merged upstream
+so that reloading .zshrc doesn't cause a segfault
+
 _[Fish](http://fishshell.com/)-like fast/unobtrusive autosuggestions for zsh._
 
 It suggests commands as you type, based on command history.
